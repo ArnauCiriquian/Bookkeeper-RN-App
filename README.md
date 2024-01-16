@@ -19,13 +19,13 @@ Bookeeper is implemented using React Native and Android Studio, right now it has
 <img src="./Assets/create.gif" width="250" height="500"/>
 
 <h4>Book info:</h4>
-<img src="./assets/info.gif" width="250" height="500"/>
+<img src="./Assets/info.gif" width="250" height="500"/>
 
 <h4>Book info edit:</h4>
-<img src="./assets/update.gif" width="250" height="500"/>
+<img src="./Assets/update.gif" width="250" height="500"/>
 
 <h4>Book deletion:</h4>
-<img src="./assets/delete.gif" width="250" height="500"/>
+<img src="./Assets/delete.gif" width="250" height="500"/>
 
 <h3>Configuration</h3>
 
